@@ -1,0 +1,20 @@
+
+
+.trash{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 56px;
+    border-radius: 50%;
+    background-color: rgb(0, 188, 212);
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+}
+.trash-red{
+    background-color: red;
+}
+.trash>svg {
+    height: 56px;
+    color: #fff;
+}

@@ -1,0 +1,8 @@
+
+
+.MuiListItemIcon-root{
+    min-width: 100px !important;
+}
+.trash-single > svg{
+    color:red !important
+}

@@ -1,0 +1,19 @@
+
+.ToDoList{
+    max-width: 460px;
+    margin: 0 auto;
+}
+.ToDoListItem{
+    border-top: 1px solid rgb(217, 217, 217);
+    border-right: 1px solid rgb(217, 217, 217);
+    border-bottom: none;
+    border-left: 1px solid rgb(217, 217, 217);
+    border-image: initial;
+    height: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.ToDoList >svg{
+    margin-top: -10px;
+    display: block;
+}
